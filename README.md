@@ -1,6 +1,6 @@
 # javascriptAbsoluteBeginners-Challenges !!!
 
-Absolutely moved by this scripting language!!!
+Absolutely moved by this scripting language!!! This repo includes different difficulty level javaScript challenges. 
 
 [Read more >](https://sacsam005.github.io/javascriptAbsoluteBeginners-Challenges/)
 
@@ -46,7 +46,7 @@ node '.js/$file'
 
 👤 **Sachin Samal**
 
-- Twitter: [@Sachin](https://www.linkedin.com/in/sachin-samal-590b19138/)
+- LinkedIn: [Sachin Samal](https://www.linkedin.com/in/sachin-samal-590b19138/)
 - Github: [Sacsam005](https://github.com/Sacsam005)
 
 ## Show your support

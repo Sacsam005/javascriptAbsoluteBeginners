@@ -1,36 +1,36 @@
-## Welcome to GitHub Pages
+# Welcome to Javascript Absolute Beginners Challenge !!!
 
-You can use the [editor on GitHub](https://github.com/Sacsam005/javascriptAbsoluteBeginners-Challenges/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Concepts
+- Strings 
+- Arrays
+- Functions
+- Objects
+- Loops
+```
+/*  Coding Challenge1: we  give three parameters to a function, two numbers and an operator, 
+now when the function operates, it will take the values from the console and perform the calculations accordingly.  */
+function cal(a, b, opt) {
+    switch(opt){
+        case '+': 
+            return console.log('Addition: ' + (a +b));
+        case '-':
+            return console.log('Subtraction: ' + (a - b));
+        case '*':
+            return console.log('Multiplication: ' + (a * b ));
+        case '/':
+            return console.log('Division: ' + (a / b));
+        default :
+            return console.log('Operator is incorrect');
+            }       
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://www.greenmarketing.ca/wp-content/uploads/2019/08/Javascript-Fundamentals-For-Absolute-Beginners3-1.jpg)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sacsam005/javascriptAbsoluteBeginners-Challenges/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details, watch ! [JavaScript Web Developer Bootcamp - Complete Guide to Become JavaScript Developer](https://youtu.be/l4w_i2ac4vc).
 
 ### Support or Contact
 

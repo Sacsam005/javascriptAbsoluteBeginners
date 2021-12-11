@@ -8,3 +8,16 @@ let link = Array.from(links).forEach(function (e) {
     console.log(href);
   }
 });
+
+
+// using for of loop
+let str = "Sacsam005";
+let links = document.links;
+let href;
+
+for (link of links) {
+  href = link.href;
+  if (href.includes(str)) {
+    console.log(href);
+  }
+}

@@ -27,18 +27,6 @@ For more details, Watch !!! [JavaScript Web Developer Bootcamp - Complete Guide 
 * Microsoft Visual Studio
 * installing nodejs will make things easier
 
-## 🖥️ Install
-
-```
-npm install
-```
-
-## 🚀 Usage
-```
-npm run start
-node '.js/$file'
-```
-
 ## Author
 
 👤 **Sachin Samal**
